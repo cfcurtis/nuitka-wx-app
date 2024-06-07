@@ -1,6 +1,10 @@
-Update: This worked randomly after a while. No idea why, but I'll leave it here as an example of a wxPython + Nuitka app that can be notarized.
-
 # Nuitka macOS Notarization Test App
+
+This worked randomly after a while. No idea why, maybe something changed on the Apple end? It started working when I fixed the segfault on close issue, but even when I undid that change it still passed notarization.
+
+I'll leave this here as an example of a wxPython + Nuitka app that can be notarized.
+
+## Original description of issue
 
 Minimal example test app to illustrate the issue with notarizing a Nuitka-compiled macOS app.
 
