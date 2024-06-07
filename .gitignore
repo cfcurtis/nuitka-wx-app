@@ -1,0 +1,7 @@
+.DS_Store
+*.app*
+*.build
+*.dist
+venv
+
+!test_app.app.zip

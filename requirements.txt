@@ -1,0 +1,6 @@
+Nuitka==2.3
+ordered-set==4.1.0
+pillow==10.3.0
+six==1.16.0
+wxPython==4.2.1
+zstandard==0.22.0
